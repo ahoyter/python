@@ -3,5 +3,5 @@
 n = 1
 while n <= 25: 
     print n,
-    n += 1
+    n += 3
 print n-2
