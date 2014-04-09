@@ -6,3 +6,4 @@ while n <= 25:
     n += 1
 print n-2
 lo modifico
+y lo vuelvo  a modificar
