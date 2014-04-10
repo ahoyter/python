@@ -1,0 +1,3 @@
+Este es un fichero de prueba
+      para comprobar el funcionamiento interno
+ del programa control  de versiones Github.
